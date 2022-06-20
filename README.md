@@ -1,3 +1,3 @@
 # control_repo
 Repo Puppet 
-Essa eh uma mudança
+Aplicando puppet facter no master
