@@ -5,6 +5,7 @@ node default {
    owner   => 'root',
   }
  file {'/root/README':
+   ensure  => file,
    owner => 'root',
   }
 }
